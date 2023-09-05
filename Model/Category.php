@@ -26,6 +26,9 @@ class Category implements CategoryInterface
         return $this->id;
     }    
 
+    /**
+     * @return string
+     */
     public function getName(): ?string
     {
         return $this->name;
