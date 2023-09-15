@@ -24,7 +24,7 @@ class Category implements CategoryInterface
     public function getId()
     {
         return $this->id;
-    }    
+    }
 
     /**
      * @return string

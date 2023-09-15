@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace spec\Owl\Component\Category\Model;
 
-use PhpSpec\ObjectBehavior;
 use Owl\Component\Category\Model\CategoryInterface;
+use PhpSpec\ObjectBehavior;
 
 final class CategorySpec extends ObjectBehavior
 {
